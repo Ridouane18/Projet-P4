@@ -5,5 +5,26 @@ D’après l’Organisation Mondiale de la santé, 39% des adultes âgés de 18 
 # P2:
 le Frant-End de l'application cree par angular 7.
 
+# Commencer
+
+prérequis:
+
+BackEnd: JDK8+ Maven
+FrantEnd: Node + angular
+
+# Installation
+
+Clonez ce référentiel et générez le projet en utilisant:
+
+MVN PACKAGE et Node
+
 # FitZone-master:
 le Back-End de l'application cree par Java EE et spring boot, spring security et spring data.
+
+# Auteurs
+
+Ridouane Tansouft & Mostafa Louarat & Nawal Dibouch
+
+# Remerciements
+
+Remerciement spécial à Mohammed Dardour, l'équipe de IT6 et Youcode Community.
